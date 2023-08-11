@@ -1,0 +1,46 @@
+{
+  "restaurant": [
+    {
+      "id": 10,
+      "name": "W C N",
+      "email": "wcn@test.com",
+      "address": "Badoda",
+      "rating": "5"
+    },
+    {
+      "id": 12,
+      "name": "Quirks",
+      "email": "quirk@gmail.com",
+      "address": "Gujrat",
+      "rating": "4"
+    },
+    {
+      "name": "Foody",
+      "email": "foody@gmail.com",
+      "address": "Mumbai",
+      "rating": "3",
+      "id": 13
+    },
+    {
+      "id": 14,
+      "name": "Duggi",
+      "email": "duggi@gmail.com",
+      "address": "Hariyana",
+      "rating": "5"
+    },
+    {
+      "name": "Tanvi",
+      "email": "tanvi@gmail.com",
+      "address": "Nagpur",
+      "rating": "5",
+      "id": 15
+    }
+  ],
+  "Login": [
+    {
+      "id": 1,
+      "name": "yogita",
+      "password": 123
+    }
+  ]
+}
